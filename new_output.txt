@@ -1,0 +1,16 @@
+Enter some words to make a trie
+Your serialised String is:-   Safa]ra]>>>>hil]>>>>>>
+Total words in a Trie is:-   3
+Enter some words to insert in this trie
+Your new serialised String is:-   Chaurasia]>>>>>>>>>MalPani]>>>>>>>Eshan]>>>>>Anjali]>>>>>>Love]>>>>Hritik]>>>>>>Shivani]>>>>>>ahil]>>>kshi]>>>>fa]ra]>>>>>>Dinesh]>>>>>>Rahul]>>>>ishika]>>>>>>>Johal]>>>>>>
+Enter a word to search in a trie:-   Pranjal is not present in a trie
+Total words in a Trie is:-   15
+New Trie:-   Johal Rishika Rahul Dinesh Sahil Safa Safara Sakshi Shivani Hritik MalPani Chaurasia Eshan Anjali Love 
+Both tries are equal
+Enter a word to delete from Trie :::
+Modified Trie after deleting 'Love' :-   Johal Rishika Rahul Dinesh Sahil Safa Safara Sakshi Shivani Hritik MalPani Chaurasia Eshan Anjali 
+Enter Prefix to find the count of words with given prefix ::: 
+Total number of words with prefix 'Safa' are:-   2
+Both the tries are not equal
+Enter a prefix to find the words in a Trie with the given prefix
+The words are:-   Sahil Safa Safara Sakshi Shivani 
